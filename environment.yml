@@ -1,0 +1,13 @@
+name: docksmith
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - openbabel
+  - rdkit
+  - matplotlib
+  - pandas
+  - py3dmol
+  - jupyter
+  - ipywidgets
+  - pip
