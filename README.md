@@ -1,4 +1,4 @@
-#DockSmith: An Automated Pipeline for Molecular Docking 
+# DockSmith: An Automated Pipeline for Molecular Docking 
 
 1) Objective: This project is a Python-based workflow designed to automate the repetitive tasks of structure-based virtual screening.
 The primary goal was to gain practical experience in building a robust, parallelized computational pipeline that handles all steps from ligand preparation to results aggregation.
