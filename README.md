@@ -1,12 +1,11 @@
-# DockSmith: An Automated Pipeline for Molecular Docking 
+# DockSmith: Automated Structure-Based Docking Workflow for SARS-CoV-2 Mpro Inhibitor Discovery
 
-1) Objective: This project is a Python-based workflow designed to automate the repetitive tasks of structure-based virtual screening.
-The primary goal was to gain practical experience in building a robust, parallelized computational pipeline that handles all steps from ligand preparation to results aggregation.
+1) Objective: Python pipeline for structure-based virtual screening of ligands based on binding affinity.
 
 2) Key Features:
-- Ligand Preparation: Automatically processes a ligand library, converting SMILES to 3D structures, adding hydrogens, and generating pdbqt files using OpenBabel.
-- Parallelized Docking: Leverages Python's multiprocessing library to run docking calculations (AutoDock Vina / Smina) in parallel, dramatically speeding up the screening of large libraries.
-- Automated Results Parsing: Gathers docking scores and PDBQT poses from all completed jobs.
-- Results Aggregation: Compiles all scores into a single, sorted .csv file for easy analysis and filtering.
+- Ligand and Receptor Preparation: Process a ligand library, convert SMILES to 3D structures, add hydrogens, and generate  PDBQT files for both protein receptor and ligands.
+- Docking: Run docking calculations with AutoDock Vina.
+- Results Parsing: Gather docking scores and binding poses from all completed jobs.
+- Results Aggregation: Compile top scores into a .csv file.
 
 3) Tools Used: Python, OpenBabel, AutoDock Vina,Py3Dmol. 
