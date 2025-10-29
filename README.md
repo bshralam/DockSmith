@@ -10,4 +10,3 @@
 
 3) Tools Used: Python, OpenBabel, AutoDock Vina,Py3Dmol.
 
-4) 4) <py3Dmol.view at 0x110c428e0>
