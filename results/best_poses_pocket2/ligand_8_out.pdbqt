@@ -1,0 +1,288 @@
+MODEL 1
+REMARK VINA RESULT:      -0.9      0.000      0.000
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -14.611  11.663  38.227  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -15.535  10.620  38.781  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -16.906  10.866  38.970  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -17.791   9.891  39.507  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.213   8.666  39.883  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -15.852   8.416  39.681  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -15.019   9.376  39.128  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -19.266  10.302  39.597  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -19.723  10.428  41.062  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -19.674  11.590  38.886  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -17.824   7.588  40.454  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -18.210   6.999  39.799  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -0.9      1.427      1.569
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -15.974  10.454  36.439  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -16.541   9.770  37.647  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -17.320  10.458  38.594  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -17.854   9.826  39.751  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.525   8.470  39.926  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -16.763   7.782  38.976  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -16.281   8.418  37.843  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -18.727  10.706  40.653  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -18.358  12.194  40.511  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -20.239  10.598  40.476  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -17.870   7.649  40.958  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -18.289   8.125  41.680  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -0.8      1.885      2.623
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -14.087   8.005  36.984  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -15.129   7.551  37.962  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -15.986   8.457  38.611  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -16.970   8.042  39.550  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.016   6.666  39.834  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -16.174   5.763  39.178  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -15.245   6.194  38.245  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -17.859   9.151  40.125  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -17.061  10.079  41.061  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -18.592  10.042  39.125  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -17.829   6.017  40.716  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -18.665   6.474  40.847  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -0.8      1.418      3.605
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -18.573  13.054  38.646  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -18.316  11.675  39.174  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -17.428  10.789  38.540  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -17.184   9.473  39.022  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.917   9.081  40.156  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -18.788   9.968  40.796  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -18.983  11.254  40.320  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -16.146   8.656  38.244  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -16.060   9.111  36.776  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -14.722   8.639  38.794  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -17.902   7.874  40.790  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -18.751   7.659  41.187  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -0.8      2.252      3.446
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -16.149   8.259  39.686  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -17.436   9.026  39.739  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -18.039   9.549  38.582  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -19.252  10.290  38.618  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -19.807  10.512  39.890  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -19.216   9.979  41.040  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -18.048   9.236  40.970  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -19.803  10.742  37.260  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -18.725  10.661  36.163  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -21.037  10.014  36.733  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -20.931  11.217  40.206  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -20.982  12.053  39.733  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -0.8      2.331      3.959
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -15.679  10.555  37.547  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -16.183   9.419  38.386  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -16.099   8.083  37.958  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -16.584   6.997  38.737  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.199   7.333  39.956  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -17.269   8.660  40.390  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -16.760   9.695  39.621  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -16.366   5.598  38.148  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -17.663   5.040  37.534  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -15.270   5.451  37.095  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -17.778   6.496  40.864  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -17.496   5.583  40.751  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -0.8      3.072      3.393
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -16.497  12.732  36.761  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -17.747  12.053  37.232  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -18.649  12.679  38.110  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -19.832  12.043  38.576  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -20.039  10.722  38.142  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -19.151  10.104  37.256  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -18.020  10.760  36.797  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -20.734  12.886  39.485  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -20.548  12.505  40.966  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -20.593  14.403  39.389  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -21.061   9.880  38.468  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -20.857   8.962  38.268  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -0.8      2.562      3.724
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -17.321  11.678  35.097  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -18.265  11.280  36.191  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -17.859  11.211  37.535  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -18.740  10.822  38.582  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -20.044  10.464  38.197  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -20.452  10.548  36.862  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -19.579  10.959  35.868  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -18.152  10.851  39.999  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -18.781  11.976  40.842  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -18.249   9.566  40.818  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -21.062  10.022  38.988  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -21.226   9.081  38.881  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -0.7      1.431      3.881
+REMARK  Name = paracetamol
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_4  and  C_9
+REMARK    3  A    between atoms: C_5  and  O_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK    5  A    between atoms: C_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -15.257  11.629  38.290  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -15.865  10.453  38.993  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -15.084   9.389  39.476  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -15.648   8.261  40.133  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.050   8.241  40.240  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -17.826   9.306  39.773  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -17.245  10.406  39.163  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1     -14.651   7.216  40.647  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1     -14.640   5.963  39.752  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1     -13.200   7.663  40.813  0.00  0.00    +0.000 C 
+ENDBRANCH   4   8
+BRANCH   5  11
+ATOM     11  O   UNL     1     -17.837   7.268  40.783  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -18.761   7.531  40.830  0.00  0.00    +0.000 HD
+ENDBRANCH   5  11
+TORSDOF 2
+ENDMDL

@@ -1,0 +1,270 @@
+MODEL 1
+REMARK VINA RESULT:      -0.9      0.000      0.000
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -19.466   9.928  39.288  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -21.062  10.847  41.062  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -20.673  10.732  39.591  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -18.724  10.390  38.098  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -18.475   9.367  36.998  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -18.583   9.965  40.485  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -17.730   8.714  40.698  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -0.8      1.362      2.323
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -19.414   9.890  39.200  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -20.919   9.902  37.133  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -20.367  10.639  38.349  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -18.019   9.936  38.720  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -17.417   8.631  38.217  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -19.498  10.449  40.577  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -20.914  10.761  41.062  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -0.8      0.707      3.264
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -19.129   9.763  39.043  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -17.629   8.560  40.729  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -17.803   9.670  39.697  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -19.944  10.905  39.504  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -20.736  10.714  40.791  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -18.906   9.855  37.575  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -18.202   8.650  36.951  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -0.7      1.490      3.542
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -18.204   8.866  39.647  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -17.054  10.332  37.895  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -17.260   8.951  38.508  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -17.569   8.477  40.921  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -16.065   8.242  40.900  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -18.863  10.193  39.790  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -19.693  10.369  41.062  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -0.7      1.801      2.853
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -19.537  10.658  38.680  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -21.059   9.698  36.863  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -20.913  10.494  38.156  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -18.962  11.997  38.442  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -19.919  13.086  37.976  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -19.569  10.368  40.139  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -20.859  10.776  40.850  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -0.6      2.455      3.655
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -20.786  12.131  38.883  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -21.062  10.798  41.048  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -21.030  10.817  39.523  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -20.271  13.160  39.807  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -21.062  14.457  39.907  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -19.825  11.921  37.766  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -18.371  12.264  38.092  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -0.6      3.382      5.162
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -17.392   6.521  39.110  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -15.300   7.333  37.883  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -16.776   6.951  37.833  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -17.353   5.062  39.330  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -16.384   4.548  40.387  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -16.684   7.223  40.215  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -17.492   8.325  40.902  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -0.6      3.641      4.756
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -17.797   5.997  38.144  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -17.378   8.512  37.943  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -16.824   7.091  37.917  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -18.064   5.176  36.946  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -19.105   5.702  35.966  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -17.270   5.141  39.241  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -17.293   5.783  40.629  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -0.6      1.495      3.077
+REMARK  Name = diethylamine
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -18.927   9.510  38.437  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -18.819  10.313  36.011  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -19.607  10.193  37.311  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1     -17.485   9.287  38.217  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -16.524   9.990  39.167  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1     -19.136  10.332  39.660  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1     -20.144  11.472  39.508  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL

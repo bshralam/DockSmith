@@ -1,0 +1,270 @@
+MODEL 1
+REMARK VINA RESULT:      -1.0      0.000      0.000
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -14.996   7.397  40.221  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -15.791   6.145  40.565  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -15.482   5.112  39.551  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -15.303   4.232  40.044  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -14.570   5.333  39.141  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -17.306   6.428  40.589  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -17.784   7.544  40.760  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -18.091   5.349  40.370  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -18.913   5.307  40.894  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -0.9      2.474      2.713
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -16.906   7.051  38.435  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -16.935   7.409  39.914  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -17.720   6.373  40.621  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -17.295   5.463  40.417  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -18.635   6.302  40.167  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -17.562   8.798  40.146  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -17.196   9.567  41.027  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -18.540   9.135  39.275  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -19.045   8.393  38.894  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -0.9      4.935      5.210
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -18.006  11.523  39.197  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -18.790  10.344  39.754  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -18.399   9.134  38.996  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -19.189   8.869  38.399  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -18.340   8.352  39.655  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -20.311  10.572  39.639  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -20.946  11.291  40.402  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -20.905   9.943  38.601  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -21.876   9.864  38.650  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -0.9      2.182      2.429
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -16.183  10.027  39.409  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -16.226   8.973  40.506  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -15.264   7.905  40.154  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -15.679   7.007  40.424  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -14.460   7.981  40.784  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -17.640   8.381  40.665  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -18.644   9.064  40.834  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -17.709   7.034  40.571  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -17.982   6.564  41.381  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -0.9      3.502      4.146
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -19.172  10.326  38.263  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -17.960   9.563  38.778  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -17.885   8.276  38.050  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -17.032   7.795  38.350  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -17.696   8.480  37.064  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -18.056   9.308  40.295  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -18.096   8.189  40.792  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -18.061  10.422  41.061  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -17.239  10.946  41.056  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -0.9      1.971      2.195
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -15.426   7.517  39.063  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -16.858   7.029  39.231  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -17.649   8.126  39.832  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -17.081   8.979  39.795  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -17.726   7.948  40.837  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -16.926   5.775  40.125  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -15.935   5.190  40.546  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -18.176   5.374  40.449  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -18.407   4.460  40.200  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -0.9      5.851      6.096
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -19.095  11.155  37.564  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -19.842  10.286  38.566  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -21.062   9.771  37.906  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -21.392  10.488  37.252  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -21.811   9.740  38.605  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -20.219  11.082  39.832  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -19.896  12.249  40.018  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -20.973  10.405  40.727  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -20.783   9.452  40.809  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -0.9      5.659      6.072
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -18.590  10.013  39.101  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -19.841  10.523  38.400  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -20.996  10.287  39.294  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -21.268  11.188  39.701  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -20.666   9.761  40.108  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -20.061   9.812  37.050  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -20.856   8.893  36.891  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -19.329  10.299  36.023  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -19.595  11.176  35.689  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -0.9      2.487      2.977
+REMARK  Name = alanine
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_6
+REMARK    4  A    between atoms: C_3  and  OXT_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1     -17.764   8.763  37.595  0.00  0.00    +0.000 C 
+ATOM      2  CA  ALA A   1     -17.000   7.743  38.428  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1     -17.583   6.408  38.167  0.00  0.00    +0.000 NA
+ATOM      4  H1  ALA A   1     -17.444   5.836  39.006  0.00  0.00    +0.000 HD
+ATOM      5  H2  ALA A   1     -16.998   5.937  37.471  0.00  0.00    +0.000 HD
+ENDBRANCH   2   3
+BRANCH   2   6
+ATOM      6  C   ALA A   1     -17.078   8.071  39.932  0.00  0.00    +0.000 C 
+ATOM      7  O   ALA A   1     -17.845   7.512  40.707  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  OXT ALA A   1     -16.204   9.011  40.357  0.00  0.00    +0.000 OA
+ATOM      9  HXT ALA A   1     -16.201   9.847  39.855  0.00  0.00    +0.000 HD
+ENDBRANCH   6   8
+ENDBRANCH   2   6
+TORSDOF 3
+ENDMDL

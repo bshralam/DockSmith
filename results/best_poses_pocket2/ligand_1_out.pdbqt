@@ -1,0 +1,234 @@
+MODEL 1
+REMARK VINA RESULT:      -1.2      0.000      0.000
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -17.544   7.896  39.512  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -17.255  10.270  39.613  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -17.939   9.040  40.149  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -18.753   9.141  41.062  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -17.199   6.853  40.325  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -17.886   5.879  40.620  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -15.808   6.974  40.889  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -1.2      1.676      2.000
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -17.693   6.865  40.775  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -16.127   8.576  40.183  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -17.208   7.623  39.745  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -17.558   7.593  38.569  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -17.617   5.511  40.601  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -18.529   4.747  40.296  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -16.234   4.959  40.823  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -1.1      1.574      2.059
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -18.666   9.439  40.386  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -18.594  11.408  39.028  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -18.681   9.906  39.101  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -18.753   9.246  38.069  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -17.683   8.535  40.677  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -17.767   7.310  40.656  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -16.377   9.179  41.058  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -0.9      1.999      2.471
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -16.972   7.518  38.641  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -15.889   8.340  40.610  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -16.989   7.506  40.008  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -17.776   6.911  40.739  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -17.124   6.302  38.035  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -18.152   5.832  37.554  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -15.852   5.499  37.986  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -0.8      2.283      3.547
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -16.466   6.948  39.515  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -16.481   4.599  39.055  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -17.095   5.764  39.785  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -18.056   5.584  40.528  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -16.811   7.546  38.335  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -17.944   7.771  37.917  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -15.623   7.951  37.504  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -0.8      1.744      2.802
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -17.238   8.295  38.905  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -15.789   6.917  37.589  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -16.986   7.014  38.497  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -17.615   6.001  38.792  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -17.301   8.485  40.257  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -18.307   8.497  40.961  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -15.953   8.698  40.892  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -0.8      3.990      4.223
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -18.649   8.890  37.358  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -19.180  11.142  36.745  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -19.555   9.903  37.513  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -20.584   9.886  38.184  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -18.873   8.051  36.303  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -19.868   7.360  36.099  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -17.735   8.016  35.319  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -0.8      2.350      2.972
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -16.490   7.173  38.599  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -17.061   7.481  36.295  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -17.275   6.718  37.576  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -18.087   5.797  37.612  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -16.903   6.835  39.858  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -17.791   7.367  40.519  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -16.142   5.675  40.442  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -0.7      2.734      3.821
+REMARK  Name = acetic_acid_anhydride
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  O_4
+REMARK    3  A    between atoms: O_4  and  C_5
+REMARK    4  A    between atoms: C_5  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -19.425  10.291  38.152  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1     -18.091  11.332  39.845  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -18.614  10.061  39.229  0.00  0.00    +0.000 C 
+ATOM      4  O   UNL     1     -18.299   8.974  39.706  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  C   UNL     1     -19.147   9.557  37.033  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -19.691   8.518  36.669  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -18.040  10.143  36.198  0.00  0.00    +0.000 C 
+ENDBRANCH   1   5
+TORSDOF 2
+ENDMDL

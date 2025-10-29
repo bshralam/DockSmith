@@ -1,0 +1,171 @@
+MODEL 1
+REMARK VINA RESULT:      -0.8      0.000      0.000
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -18.759   9.822  37.064  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -19.293  10.108  38.435  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -20.584  10.619  38.614  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -21.062  10.895  39.896  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -20.257  10.662  41.008  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -18.972  10.147  40.841  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -18.492   9.871  39.560  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -0.8      0.611      1.868
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -17.932   9.607  37.413  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -18.879  10.001  38.506  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -18.501   9.918  39.851  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -19.398  10.273  40.860  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -20.678  10.716  40.533  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -21.062  10.809  39.197  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -20.166  10.453  38.187  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -0.7      1.088      2.915
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -20.300  10.993  40.966  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -19.308  10.275  40.101  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -19.357  10.385  38.706  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -18.437   9.699  37.911  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.460   8.901  38.503  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -17.398   8.791  39.891  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -18.319   9.476  40.687  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -0.7      1.145      2.538
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -16.756   8.430  40.518  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -17.920   9.282  40.110  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -18.824   9.767  41.062  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -19.913  10.547  40.668  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -20.106  10.849  39.322  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -19.207  10.377  38.367  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -18.118   9.596  38.760  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -0.6      1.610      2.154
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -17.142   8.591  36.902  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -17.602   8.912  38.292  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -18.536   9.929  38.524  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -18.944  10.230  39.825  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -18.424   9.516  40.903  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -17.498   8.497  40.682  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -17.089   8.197  39.381  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -0.6      2.131      3.250
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -16.807   7.928  36.945  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -17.211   8.312  38.337  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -16.880   7.505  39.431  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -17.276   7.866  40.721  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -18.004   9.036  40.926  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -18.332   9.850  39.844  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -17.938   9.490  38.554  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -0.5      1.824      2.696
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -17.851   9.900  36.823  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -17.726   9.367  38.218  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -18.419   9.959  39.280  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -18.282   9.463  40.578  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.451   8.372  40.824  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -16.762   7.771  39.773  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -16.898   8.267  38.475  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -0.5      3.999      4.793
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -16.838   6.620  36.686  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -16.982   6.535  38.176  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -16.902   7.682  38.973  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -17.022   7.588  40.361  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -17.225   6.347  40.962  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -17.313   5.199  40.176  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -17.192   5.293  38.788  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -0.4      1.796      2.353
+REMARK  Name = benzene
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -18.071   9.603  39.673  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -18.937  10.789  39.370  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -20.257  10.623  38.935  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -21.048  11.735  38.641  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -20.528  13.020  38.781  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -19.216  13.195  39.220  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -18.424  12.084  39.513  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL

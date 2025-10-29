@@ -5,7 +5,7 @@ ligand_dir="../data/ligands_pdbqt"
 output_dir="../results/best_poses"
 mkdir -p "$output_dir"
 
-# Define center and size of docking box
+# Define center and size of docking box (these are placeholders — replace with actual Mpro active site center)
 center_x=-10
 center_y=12.5
 center_z=68.5
