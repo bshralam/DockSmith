@@ -8,4 +8,4 @@
 - Results Parsing: Gather docking scores and binding poses from all completed jobs.
 - Results Aggregation: Compile top scores into a .csv file.
 
-3) Tools Used: Python, OpenBabel, AutoDock Vina,Py3Dmol.
+3) Tools Used: Python, OpenBabel, AutoDock Vina,Py3Dmol. 
