@@ -1,0 +1,189 @@
+MODEL 1
+REMARK VINA RESULT:      -4.1      0.000      0.000
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -4.718  17.981  59.421  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -5.430  19.012  58.813  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -5.936  20.059  59.585  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -5.756  20.076  60.976  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -5.025  19.036  61.595  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -4.505  17.999  60.800  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -4.844  19.059  62.987  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -5.390  20.085  63.760  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -6.117  21.104  63.152  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -6.297  21.102  61.768  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.0      0.078      4.019
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -6.144  21.172  63.113  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -5.424  20.174  63.762  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -4.857  19.133  63.027  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -5.022  19.064  61.636  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -5.744  20.083  60.972  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -6.293  21.135  61.725  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -5.905  20.013  59.578  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -5.373  18.945  58.852  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -4.669  17.939  59.508  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -4.491  17.999  60.890  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.0      0.044      2.070
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -5.466  19.030  58.811  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -4.748  17.999  59.412  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -4.556  17.996  60.794  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -5.060  19.036  61.590  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -5.799  20.078  60.984  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -5.999  20.056  59.593  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -6.305  21.115  61.785  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -6.072  21.131  63.161  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -5.337  20.109  63.756  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -4.837  19.065  62.976  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.9      2.762      4.377
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -5.912  20.290  63.213  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -5.131  21.418  63.450  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -3.866  21.282  64.022  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -3.375  20.019  64.386  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -4.162  18.870  64.136  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -5.426  19.023  63.541  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -3.665  17.607  64.498  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -2.418  17.481  65.111  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -1.648  18.612  65.364  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -2.121  19.874  65.000  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.9      2.765      4.650
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -1.248  20.826  65.277  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -1.778  22.092  65.044  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -3.061  22.224  64.511  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -3.820  21.091  64.183  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -3.289  19.804  64.428  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -2.003  19.689  64.983  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -4.055  18.672  64.102  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -5.320  18.809  63.528  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -5.839  20.077  63.279  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -5.096  21.211  63.607  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.9      2.723      4.327
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -2.492  17.557  65.090  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -1.703  18.683  65.302  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -2.173  19.944  64.932  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -3.429  20.090  64.324  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -4.237  18.949  64.117  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -3.756  17.689  64.513  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -5.495  19.101  63.511  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -5.943  20.358  63.102  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -5.143  21.480  63.299  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -3.895  21.348  63.910  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.8      1.076      2.846
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -3.415  17.354  61.773  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -3.412  17.422  63.163  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -4.169  18.397  63.815  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -4.920  19.329  63.084  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -4.933  19.255  61.672  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -4.180  18.256  61.032  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -5.690  20.189  60.944  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -6.410  21.189  61.599  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -6.390  21.266  62.988  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -5.652  20.340  63.727  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.8      8.911      9.478
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -3.647  16.511  69.294  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -4.921  16.388  69.842  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -5.483  17.454  70.547  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -4.769  18.647  70.732  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -3.479  18.779  70.167  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -2.935  17.703  69.444  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -2.769  19.977  70.351  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -3.317  21.023  71.095  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -4.583  20.890  71.657  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -5.307  19.711  71.474  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.8      1.209      2.889
+REMARK  Name = naphthalene
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -3.292  17.426  63.727  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -3.197  17.172  62.362  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -3.875  17.985  61.452  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -4.674  19.048  61.898  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -4.763  19.316  63.284  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -4.059  18.499  64.185  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -5.561  20.384  63.726  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -6.272  21.167  62.815  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -6.190  20.897  61.452  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -5.393  19.847  60.995  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
